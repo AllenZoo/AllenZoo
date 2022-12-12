@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<h3 align="center">— Programmer Statistics —</h3>
+<section align="center">
+  <p align="center"> <img align="top" src="https://github-readme-stats.vercel.app/api?username=AllenZoo&show_icons=true&theme=dark" alt="jon-chow" /> </p>
+  <p align="center"> <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=AllenZoo&theme=dark" alt="AllenZoo" /> </p>
+  <p align="center"> <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=AllenZoo&show_icons=true&theme=dark&layout=compact" alt="AllenZoo" /> </p>
+</section>
+
 <!--
 **AllenZoo/AllenZoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
