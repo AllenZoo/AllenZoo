@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h3 align="center">— Programmer Statistics —</h3>
 <section align="center">
   <p align="center"> <img align="top" src="https://github-readme-stats.vercel.app/api?username=AllenZoo&show_icons=true&theme=dark" alt="jon-chow" /> </p>
